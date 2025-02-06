@@ -11,5 +11,3 @@ function Post(props) {
 }
 
 export default Post;
-
-/* Making a comment for testing Again */
